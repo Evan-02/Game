@@ -1,4 +1,5 @@
 name: Deploy static game to GitHub Pages
+# The repository Pages source is configured to GitHub Actions.
 
 on:
   push:
